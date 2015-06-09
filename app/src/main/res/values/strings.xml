@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountryCabinRentals</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cabin_two">CabinTwo</string>
+    <string name="ok" />
+    <string name="cancel" />
+</resources>
